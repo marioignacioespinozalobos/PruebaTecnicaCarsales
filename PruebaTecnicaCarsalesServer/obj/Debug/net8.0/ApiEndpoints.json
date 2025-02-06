@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PruebaTecnicaCarsalesServer.Controllers.EpisodeController",
+    "Method": "GetEpisodeAll",
+    "RelativePath": "Episode/GetEpisodeAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaCarsalesServer.Controllers.EpisodeController",
+    "Method": "GetUrlPagina",
+    "RelativePath": "Episode/GetUrlPagina",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pag",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

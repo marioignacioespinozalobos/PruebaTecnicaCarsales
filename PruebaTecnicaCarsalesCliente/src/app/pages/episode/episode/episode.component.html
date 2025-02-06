@@ -1,0 +1,25 @@
+<div class="container">
+  <h1> Listado de episodios</h1>
+  <table class="table table-striped" border="1">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Fecha Aire</th>
+          <th>Episode</th>
+          <th>Caracteres</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let episode of results">
+          <td>{{ episode.name }}</td>
+          <td>{{ episode.air_date }}</td>
+          <td>{{ episode.episode }}</td>
+          <td>{{ episode.characters[0] }}</td>
+        </tr>
+      </tbody>      
+    </table>
+  </div>
+<div class="justify-content-center">
+   <button type="button" class="btn btn-success" (click)="getAntP(this.pAnt)" [disabled]="enableButtonPrev">Anterior</button>
+   <button type="button" class="btn btn-primary" (click)="getNextP(this.pNext)" [disabled]="enableButtonNext">Siguiente</button>
+</div>

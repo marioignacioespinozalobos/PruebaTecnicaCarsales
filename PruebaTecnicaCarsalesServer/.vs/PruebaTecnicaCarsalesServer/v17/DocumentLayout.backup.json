@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programar\\Pruebastecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsalesServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72337714-80C3-43F8-A7CC-0DA4284CAE48}|PruebaTecnicaCarsalesServer.csproj|d:\\programar\\pruebastecnicas\\pruebatecnicacarsales\\pruebatecnicacarsalesserver\\controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72337714-80C3-43F8-A7CC-0DA4284CAE48}|PruebaTecnicaCarsalesServer.csproj|solutionrelative:controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72337714-80C3-43F8-A7CC-0DA4284CAE48}|PruebaTecnicaCarsalesServer.csproj|d:\\programar\\pruebastecnicas\\pruebatecnicacarsales\\pruebatecnicacarsalesserver\\service\\episodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72337714-80C3-43F8-A7CC-0DA4284CAE48}|PruebaTecnicaCarsalesServer.csproj|solutionrelative:service\\episodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72337714-80C3-43F8-A7CC-0DA4284CAE48}|PruebaTecnicaCarsalesServer.csproj|d:\\programar\\pruebastecnicas\\pruebatecnicacarsales\\pruebatecnicacarsalesserver\\interfaces\\iepisodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72337714-80C3-43F8-A7CC-0DA4284CAE48}|PruebaTecnicaCarsalesServer.csproj|solutionrelative:interfaces\\iepisodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EpisodeService.cs",
+              "DocumentMoniker": "D:\\Programar\\Pruebastecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsalesServer\\Service\\EpisodeService.cs",
+              "RelativeDocumentMoniker": "Service\\EpisodeService.cs",
+              "ToolTip": "D:\\Programar\\Pruebastecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsalesServer\\Service\\EpisodeService.cs",
+              "RelativeToolTip": "Service\\EpisodeService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:08:02.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEpisodeService.cs",
+              "DocumentMoniker": "D:\\Programar\\Pruebastecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsalesServer\\Interfaces\\IEpisodeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEpisodeService.cs",
+              "ToolTip": "D:\\Programar\\Pruebastecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsalesServer\\Interfaces\\IEpisodeService.cs",
+              "RelativeToolTip": "Interfaces\\IEpisodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:07:20.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EpisodeController.cs",
+              "DocumentMoniker": "D:\\Programar\\Pruebastecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsalesServer\\Controllers\\EpisodeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EpisodeController.cs",
+              "ToolTip": "D:\\Programar\\Pruebastecnicas\\PruebaTecnicaCarsales\\PruebaTecnicaCarsalesServer\\Controllers\\EpisodeController.cs",
+              "RelativeToolTip": "Controllers\\EpisodeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:14:16.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
